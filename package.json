@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^1.10.1",
-    "esbuild": "^0.24.0"
+    "esbuild": "^0.24.0",
+    "esm": "^3.2.25"
   },
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
